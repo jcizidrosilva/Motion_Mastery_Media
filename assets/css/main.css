@@ -11,7 +11,24 @@
 # Learn more about CSS variables at https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
 --------------------------------------------------------------*/
 
-/* My Logo */
+/* Flags */
+
+.en-flag {
+  width: 35px;
+  height: auto;
+  border-radius: 20%;
+}
+
+.pt-flag {
+  width: 35px;
+  height: auto;
+  border-radius: 20%;
+}
+
+
+
+
+
 
 /* Fonts */
 :root {
